@@ -1,4 +1,4 @@
-#Test task for B2Broker
+# Test task for B2Broker
 
 Implemented general structure for finance system. Some methods are abstract (e.g. for database operations) as it was not asked to work with database.
 Also I didn't use any libraries, but I would definitly use Money class for all operations (it is better to work with decimal numbers than float), 
